@@ -1,0 +1,3 @@
+[autorun]
+open=powershell.exe -File autorun.ps1
+action=Run PowerShell Script
